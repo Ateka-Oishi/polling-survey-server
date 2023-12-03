@@ -2,7 +2,7 @@
 
 Client Live Link : https://insightmint.web.app
 
-Server Live Link : insight-mint-server.vercel.app
+Server Live Link : https://insight-mint-server.vercel.app
 
 # Client and Server Site CODE Link
 
